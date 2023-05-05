@@ -1,0 +1,1 @@
+console.log("JavaScript basic Logical and Functional programs!")
